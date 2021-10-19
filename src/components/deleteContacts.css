@@ -1,0 +1,44 @@
+label {
+  color: white;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.center {
+  width: fit-content;
+  margin: auto;
+}
+
+.ContentControl {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+}
+
+.OptionControl {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.LinkControl {
+  border: 1px solid red;
+  text-align: center;
+  margin: 20px;
+  width: 15%;
+  padding: 5px 0px;
+  border-radius: 5px;
+  background: red;
+}
