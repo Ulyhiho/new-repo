@@ -1,0 +1,20 @@
+{
+  "addContacts": [
+    {
+      "id": 1,
+      "fullName": "Mark Ulysses",
+      "emailAddress": "mark@gmail.com",
+      "contact": 234254334,
+      "location": "Manila",
+      "RegisteredDate": "11/2/2021"
+    },
+    {
+      "id": 2,
+      "fullName": "Justin Torres",
+      "emailAddress": "jus@gmail.com",
+      "contact": 23423424242,
+      "location": "cavite",
+      "RegisteredDate": "11/2/2021"
+    }
+  ]
+}
